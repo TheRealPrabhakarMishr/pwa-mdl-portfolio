@@ -10,11 +10,11 @@
                     </div>
                     <div class="mdl-card__supporting-text">
                         <p>
-                            Enim labore aliqua consequat ut quis ad occaecat aliquip incididunt. Sunt nulla eu enim irure enim nostrud aliqua consectetur ad consectetur sunt ullamco officia. Ex officia laborum et consequat duis.
-                        </p>
-                        <p>
-                            Excepteur reprehenderit sint exercitation ipsum consequat qui sit id velit elit. Velit anim eiusmod labore sit amet.
-                        </p>
+                         This is work in progress.. try footer links..</p>
+
+                         <p>
+                         More features to be added soon..</p>
+                        
                         <form action="#" class="">
                             <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
                                 <input class="mdl-textfield__input" pattern="[A-Z,a-z, ]*" type="text" id="Name">
@@ -30,7 +30,7 @@
                                 <label class="mdl-textfield__label" for="note">Enter note</label>
                             </div>
                             <p>
-                                <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent" type="submit">
+                                <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent" type="submit" disabled>
                                     Submit
                                 </button>
                             </p>

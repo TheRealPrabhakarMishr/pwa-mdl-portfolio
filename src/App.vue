@@ -37,28 +37,28 @@
          
             <ul class=" fa-2x " style="margin-bottom:0; margin-top:5px;">
               <li class="list-inline-item ">
-                <a style="color:grey"  href="">
+                <a style="color:grey"  href="https://github.com/TheRealPrabhakarMishr">
                   <i class="fab fa-github-square"></i>
                 </a>
               </li>
               <li class="list-inline-item">
-                <a style="color:grey" href="">
+                <a style="color:grey" href="https://twitter.com/PrabhakarMishr">
                   <i class="fab fa-twitter-square"></i>
                 </a>
               </li>
 
               <li class="list-inline-item">
-                  <a style="color:grey" href="">
+                  <a style="color:grey" href="https://www.instagram.com/prabhakarmishr/">
                     <i class="fab fa-instagram"></i>
                   </a>
                 </li>
               <li class="list-inline-item">
-                <a style=" color:grey" href="">
+                <a style=" color:grey" href="https://www.linkedin.com/in/prabhakar-mishra-aa028078">
                   <i class="fab fa-linkedin"></i>
                 </a>
               </li>
               <li class="list-inline-item">
-                <a style="color:grey" href="">
+                <a style="color:grey" href="https://plus.google.com/u/0/+PrabhakarMishra17">
                   <i class="fab fa-google-plus-square"></i>
                 </a>
               </li>

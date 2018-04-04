@@ -15,19 +15,26 @@
                         <h3 class="mdl-cell mdl-cell--12-col mdl-typography--headline">Introduction</h3>
                         <div class="mdl-cell mdl-cell--8-col mdl-card__supporting-text no-padding ">
                             <p>
-                                Excepteur reprehenderit sint exercitation ipsum consequat qui sit id velit elit. Velit anim eiusmod labore sit amet. Voluptate voluptate irure occaecat deserunt incididunt esse in. Sunt velit aliquip sunt elit ex nulla reprehenderit qui ut eiusmod ipsum do. Duis veniam reprehenderit laborum occaecat id proident nulla veniam. Duis enim deserunt voluptate aute veniam sint pariatur exercitation. Irure mollit est sit labore est deserunt pariatur duis aute laboris cupidatat. Consectetur consequat esse est sit veniam adipisicing ipsum enim irure.
-                            </p>
+                                Hi there, I am Prabhakar Mishra. I am a corporate trainer and front-end developer.
+                                My current geolocation is Chandigarh. Well, I am man of few words. You can reach out to me in twitter or instagram. 
+Cheers.
+                                </p>
                         </div>
 
 
 
 
-                        <h3 class="mdl-cell mdl-cell--12-col mdl-typography--headline">Irure mollit est sit labore</h3>
+                        <h3 class="mdl-cell mdl-cell--12-col mdl-typography--headline">Resume</h3>
 
                         <div class="mdl-cell mdl-cell--8-col mdl-card__supporting-text no-padding ">
                             <p>
-                                Excepteur reprehenderit sint exercitation ipsum consequat qui sit id velit elit. Velit anim eiusmod labore sit amet. Voluptate voluptate irure occaecat deserunt incididunt esse in. Sunt velit aliquip sunt elit ex nulla reprehenderit qui ut eiusmod ipsum do. Duis veniam reprehenderit laborum occaecat id proident nulla veniam. Duis enim deserunt voluptate aute veniam sint pariatur exercitation. Irure mollit est sit labore est deserunt pariatur duis aute laboris cupidatat. Consectetur consequat esse est sit veniam adipisicing ipsum enim irure.
-                            </p>
+                                Click the button on right to have a look at my resume. JIC.
+                             </p>
+                        </div>
+                        <div class="mdl-cell mdl-cell--4-col mdl-card__supporting-text no-padding ">
+                            <p>
+                                <a href="static/Prabhakar Mishra's Resume.pdf"> <i class="fas fa-download"></i></a>
+                             </p>
                         </div>
                     </div>
                 </div>
